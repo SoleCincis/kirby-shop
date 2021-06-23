@@ -1,0 +1,18 @@
+title: Post
+
+fields:
+  text:
+   label: Article Text
+   type: textarea
+   size: large
+
+
+  post_type:
+   label: Artikelcolor
+    type: radio
+    options:
+       red: red
+       blu: blu
+
+
+
